@@ -1,0 +1,8 @@
+{
+  "name": "adp-presentation-toolkit",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "katex": "^0.17.0"
+  }
+}

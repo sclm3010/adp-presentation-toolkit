@@ -1,0 +1,7 @@
+node_modules/
+work/
+*.inspect.ndjson
+__pycache__/
+*.pyc
+.venv/
+venv/
